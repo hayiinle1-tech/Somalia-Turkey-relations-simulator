@@ -1,0 +1,26 @@
+name: Refresh Somalia–Türkiye data
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 06:17 Mogadishu time
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python somalia_turkey_scraper.py --days 90 --out scraped
+      - name: Publish events.json next to the page
+        run: cp scraped/events.json events.json && cp scraped/gdelt_tone.csv gdelt_tone.csv 2>/dev/null || true
+      - name: Commit if anything changed
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add events.json gdelt_tone.csv scraped/events.csv || true
+          git diff --cached --quiet || git commit -m "Daily data refresh $(date -u +%F)"
+          git push
