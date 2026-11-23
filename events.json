@@ -208,14 +208,6 @@
   "source": "Somali National News Agency"
  },
  {
-  "date": "2026-11-22",
-  "domain": "security",
-  "impact": 0,
-  "title": "Turkey aids Somalia in breaking ground on new naval facilities",
-  "url": "http://www.jpost.com/international/article-915680",
-  "source": "jpost.com"
- },
- {
   "date": "2026-11-21",
   "domain": "security",
   "impact": 0,
@@ -306,6 +298,22 @@
  {
   "date": "2026-11-21",
   "domain": "diplomacy",
+  "impact": -1,
+  "title": "Erdoğan Approves Grant to Build Somali Embassy in Ankara, Highlighting Asymmetric Ties and Sovereignty Questions",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ05iUlA3cXlfUWs4Z21ncm1Sc3VPazBCYTdHUE5RNXd5SHhoTjdBcS1hdmJOZE5ISzhkMHNyZHlWTWdoTUhXcWtSakxCLWd6WXFwVEJFbE1hUkNhM056M0lleWRIMnpnNlJIbUxwT1JNQnRkYXp6SkxCaGRmcEo1OVI3a0JWZk9jbkpXZWpiNjh2Mm5RUjJuUUt4M3FmSXZOQjV5a2RsVVNhTVptSUJHV1Znc0dhRmlTNFlGNjZoNmVEUk9oTWVwc1VJRy04UkY5VTFiQTdB?oc=5",
+  "source": "FTL Somalia"
+ },
+ {
+  "date": "2026-11-21",
+  "domain": "diplomacy",
+  "impact": 0,
+  "title": "Turkey approves deal to build new Somali embassy in Ankara",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXhvWU9YbXAtNmc4UnU0aXBHSll0VEdkXzJOdU43bENqSjR0NUlRMHp3SzRkeS1fZy1naDE5dUJCakJtXy1OQWlfS0dfVU1mMWNLSXZyV2RILVVJWjVqdWtKNTJoQkg4c2xhbl9NWlJfaXhQUWpPQTdWa2gyb0cycDlVVFJtX2tuZ0xuZVgzdmRvVFl0VG5UMFc3ZnE3RFdpQ2c?oc=5",
+  "source": "Somalia Today"
+ },
+ {
+  "date": "2026-11-21",
+  "domain": "diplomacy",
   "impact": 0,
   "title": "Türkiye'nin Pakistan, Somali ve Suriye ile anlaşmaları Resmi Gazete'de yayımlandı",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc19oZVRRNjg3ZWp1N1psYU1zSGY5LW1oZzVoRnFvYXc4NnVyc09lS1hmeEJ0LVBlZG0wc1NvWW1MdUl2RWdMc1dtV3lidEE2MDRQYXh3eXNITjZDT2lfUlFJZ3NtQk5XWjBZSDJ3alJyVHN3R3E0bEVCelpDZXl4WjVIRlEyY0lrWWtiVlpFUVJaUk1mZXpCU2hUZGJHS1dST3lGN1VOTm5DeEk?oc=5",
@@ -366,14 +374,6 @@
   "title": "Somali açıklarında Türk donanması sahada! Çağrı Bey'e kesintisiz koruma",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOGZDQUZ2ZUZ6TTNMNmJvS19CbWp4MTRzWjZ1VUtWYzRhbGRHWVU1VFhlRGY4WU9ueVNPbEo0ajRBY3JYWWtQVWozUTdpWHp6SFJGQkFaLXBXUlZfLTJrcXNkaWp4WE1RM184VmVsN2tzbVp0YldlLVJDSFlrbWlPWFQyTXJTOHhvWG5qd2R6ODlsZEN6UEROeXJvQmNNZlVZZkRzWEFwcjV2MjQ?oc=5",
   "source": "Türkgün"
- },
- {
-  "date": "2026-11-21",
-  "domain": "diplomacy",
-  "impact": 0,
-  "title": "Türk donanması Somali açıklarında görevde!",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHRoYjdQbXdLTDF1MFdmM2I5UG5wSzJVQmVpQnctVkRMYXJpYnlzVnZydklpN1pMYUR6WnVlcW9lOGl4a2swcjZzeGRLV0ZWRGV2bmZPcElnLUlxQ1BkY09DbVd5OTE2SmF2Q2d4RGh2TDladW5EbzR5c3ZxQXpLamdLUWx3R0FEZGtUbFhJZWl5eE9zWjg2TW1VdmdMeXpZbGdobWZPWjExNTRKSGfSAbMBQVVfeXFMTWRyUFh0RllZNWxDeDQ4TVY3Q0VwUzh5SlVkaDNIQVlyWHMxTGJiZ0VzZHU3SS1RR3pQQlZqQm1OWWNIT1puSVlGeXBObFRKMTRpTG1qRVRCRGhvNlhDUVY5NXZQMXpkUXVZUjlHd21CcjhyOHhFUl9OVmVvRlkxdjVwenFHSUpGRGZmR3FkdUNlM1J0N0ZkMFQ4ZlRyellQc2hCcExzaUJyeFBQNzVMckwwU1E?oc=5",
-  "source": "İstiklal Gazetesi"
  },
  {
   "date": "2026-11-21",
@@ -513,6 +513,14 @@
  },
  {
   "date": "2026-11-16",
+  "domain": "diplomacy",
+  "impact": 1,
+  "title": "Turkish ambassador meets former Somali President Farmaajo in Mogadishu",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0lfLUNRWU5kdVQ0cXlSTXpvQ1RJSlVJWk1PdGdOZGxNWkdPYVByMUdrdUZ1VTAtNXRoRzVkY3NYb3d6S2RqbnAtcWJqazA1RWMyTE0wSnhLYkhKV0p4VHJGVXhMcUR6N1FicExKTEd0YnZrU0xfcmFjUDVsa000YnpVM0txZVE5ZUNYZ0w1TVJYdlI1STFGbURBRkV4dEtDcHZnYmFHZDhXbnROMlc1Q3pGQmxFc3FadXgtTnMzTXppaTQ?oc=5",
+  "source": "Hiiraan Online"
+ },
+ {
+  "date": "2026-11-16",
   "domain": "security",
   "impact": 0,
   "title": "Türkiye'nin Somali'deki askeri ve ekonomik varlığı genişliyor",
@@ -625,6 +633,14 @@
  },
  {
   "date": "2026-11-12",
+  "domain": "security",
+  "impact": 0,
+  "title": "Türkiye Rejects Reports of Plans to Deploy 15,000 Troops to Somalia",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3pvUURwa29ZM2tGR0phUkZncFdBZ2JpcTFjQy1XTW5TS2xZZG5UU3lVaHlERmluMW8xU0d4STBFY3Z4bnBoWm40X09aeVV1TnE2SUJkeV9sc0xIeDhtYTdIZ0daa2RmeDNYb3hNeENsbFJkTnNvZVRmYUdkUEhveTFWNDhSVTBHOC1qUVdKTTkydTZqMi01aHZoSUNtSWNM?oc=5",
+  "source": "Horseed Media"
+ },
+ {
+  "date": "2026-11-12",
   "domain": "diplomacy",
   "impact": 0,
   "title": "Cumhurbaşkanı Erdoğan’ın, Somali Cumhurbaşkanı Mahmud ile görüşmesine ilişkin açıklama",
@@ -659,25 +675,9 @@
   "date": "2026-11-12",
   "domain": "security",
   "impact": 0,
-  "title": "\"Somali'ye 15 bin Türk askeri gönderilecek\" iddiasına ilişkin açıklama",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeTlUZXJFamN5RHlIOVZLS20xS2ZLTXhpczR1NkFyZF9zVVRnaUFsZjk4VWo1M2cxU2hXRUZkSVBSMmpwSXhMNE1ySmZnejcxTFh2cmxaRW5manNTa1NnUnpJaEZKdjI1bUxFR3A4S055cWZNem1FeUJ0RmRuYV9IWXB0am5HVDQyenJqTFZHYVU2ZHRZYjF3?oc=5",
-  "source": "Timeturk"
- },
- {
-  "date": "2026-11-12",
-  "domain": "security",
-  "impact": 0,
   "title": "Somali'ye 15 bin Türk askeri mi gönderilecek? MSB iddialara son noktayı koydu",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTdFRWh2MFNUZ0JsUTctRnZZR2VzcW5QM3hyWW9hbm42MkozVUFaTVM4eUo3TE96Qm9MTnpRMVltQzVpblYtR0x5VHl1QzRaRTNJQVdaUUxKdUxZZkNwN2tiaTZOX0oxRjFUVlpYaEV1S0pDdVJqZGVuZDVRS085QmNTWTZINjBjV19fN2MwS3BNcGlub1dCVHFablZYZmJ2U3ZkU1YwZw?oc=5",
   "source": "Kamudanhaber"
- },
- {
-  "date": "2026-11-12",
-  "domain": "security",
-  "impact": 0,
-  "title": "Türkiye, Somali'ye 15 bin asker mi gönderecek? Açıklama geldi...",
-  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTdPRW5zc1h3cXV4NWpmWEJEc200V0xTb3RJLWRhTFpTNm9ZcXJKMHBackxRS05RZElqZXgtQ3NYR3RVU0RScWNxZUxZOXdwNElINDlMUVBpMjNGZEtsVHFsM1hTcVRkc0lyU0lWTlMzbVZqdDhFTEl3TUFBblRuTDI0ZFExS0RtdXEyRWFQR0E?oc=5",
-  "source": "https://www.babaocagi.com/"
  },
  {
   "date": "2026-11-12",
@@ -702,22 +702,6 @@
   "title": "President Erdoğan meets with President Mohamud of Somalia",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkFOOC1UUC1oY1RyMGVDV3ZSWFRXZHNwVUxlbF9kQ2Z3aDQwdVJ4bE40S1hEejc1QU43ZUd4MEJuaml4ZGNtTkd4OV85M2N5MUw2SmxLSW95WUtRVFlzaHFtZ1NwYlZHOWlDT3czOGZ1RDE2YmRFYmh2UjFXX0UtMnEwZjZEVlRYXzdRb2FoRXZWMUxXcDhXTW85MC1xUWNscmxSVmtUaEVTdExKZ0NzazI1alFaYkVZ?oc=5",
   "source": "İletişim Başkanlığı"
- },
- {
-  "date": "2026-11-12",
-  "domain": "diplomacy",
-  "impact": 0,
-  "title": "Somalia asks for Sh1 . 44 trillion climate financing at COP31 in Turkey",
-  "url": "https://kenya-today.com/report-somalia-asks-for-sh144-trillion-climate-financing-at-cop31-in-turkey-25770/",
-  "source": "kenya-today.com"
- },
- {
-  "date": "2026-11-11",
-  "domain": "security",
-  "impact": 0,
-  "title": "Somali'de değişen askeri dengeler Türkiye'nin üzerindeki yükü artırabilir mi?",
-  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHRta3gzcFprSElyeVNtcUZaSlJvWTIwOTZPYWxTZ0ZQbnpqWnFTZkVqZFBtRk9TZW16c1dCVnJfTVRtWVJPLUhwWlQzMmI4OURpeWpWLWNPdzFhc0RPWWpUN2pQUWxKVENXNFVJMENWQkkzT2EyZ25LU0pPOEcyQ3hIQ25EcGNaakhIMEJKdjU4Z3I2ME5JelBhMUg5aThVTm9ybS1BYjRKQ2dYUFAw0gG_AUFVX3lxTE1qS0ZMNHM4MW9DNlJ6Rnh1SVdMdlJQSlg1M0VfRFQtQ091Z2c5Z00tUmwxNFlwV3psLWNlQ0Vla3pxbmNMaHl6WFJUbFpzRGJkVnA2RGpIcU9PWGNqZnAtWE92UHpPREw5WFY4NHZvaVJ0OFZmXzUzajh0bDREeVJYMFE2Yy1GSDZrRHVTVGZtczMwaV9wUDY3MVNWUWt5emx3aGNUcExtSE5MSk90NVl2UzFTay1OY0tySnZGTXFZ?oc=5",
-  "source": "Mepa News"
  },
  {
   "date": "2026-11-11",
@@ -745,14 +729,6 @@
  },
  {
   "date": "2026-11-10",
-  "domain": "security",
-  "impact": 0,
-  "title": "Türkiye ve Somali arasında güvenlik görüşmesi: Askeri işbirliği ele alındı",
-  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVG9Zck5LM3hRYkZtRWUzeGhxTkh1WS1DWFlsQWtEYWhUU0J5NzZRUXBEeURhNG12RkhMYkgtUFEwOXJhQjVaMlBoLTRzSE5fSlF3WHNFbGRlMkd1YVZHd1U2WWE5STFpTURCNkZ0bEthYVNNLXpCQWtYYXJ5d19ja2txWGhOMTZQV0NpbVc2NlhKZVd6YUdTQlRSRm5aalMwUHZGbGE0VQ?oc=5",
-  "source": "24 Saat Gazetesi"
- },
- {
-  "date": "2026-11-10",
   "domain": "diplomacy",
   "impact": 2,
   "title": "Somalia Inaugurates National Pavilion at COP31 in Türkiye",
@@ -774,6 +750,14 @@
   "title": "Somalia seeks 20,000 foreign troops as Turkey pledges 15,000 to bolster defences",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObUxVaUJCUURrR3g3WGJkUFdfTS1sNWRIY1QxYU95VWhXNjZ4OGlYcDBuSDFJeFFnVC1WWDBUcVNJNzlUNnlhMVpaNnRiYmJjY2dtMEpOQzE5VXQtUHlqWTNWQzBFMGJmOG9hVDA2SFZPV2xxblVOOUZwakVzOTdKM1hLSzdzNFNBcXg3LXFkLXpzWUhkTC1rNTFZaEtZaFk?oc=5",
   "source": "Somali Guardian"
+ },
+ {
+  "date": "2026-11-06",
+  "domain": "energy",
+  "impact": 1,
+  "title": "Turkish Warships Head to Somalia to Escort Fishing Vessel Amid Political Turmoil",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQWVtS1FEaU5pZWVaWVV2U0V6NnB1LUVxMFYxZ2UtbE9fUFdObGZnWlYzZjV1ZG9fOE5VNk9TSk9uVWEzeEE0TFlqRmtDSTdEcDFzNm1nU0pCUEtOSXVTYUFhU3FFVkVnSFFXX3pFWExzRDNDdjg2eVVvS2ZoWnlWb3JMYXJMLThsSTlFZzlWVl81ODgyZGFMX2V0NEdBNXZzSS1Zbld1d1NzQlpHTm1mSjR5QTl4aUdOY21SVkRldU5POUk?oc=5",
+  "source": "Garowe Online"
  },
  {
   "date": "2026-11-06",
@@ -800,6 +784,14 @@
   "source": "FTL Somalia"
  },
  {
+  "date": "2026-11-05",
+  "domain": "security",
+  "impact": 1,
+  "title": "Turkish warships head to Mogadishu to escort fishing vessel during exploratory operations off Somalia",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONi1RM2hKRU10SFJpbG81bjRkeVFNZEVqa0hQQWFoQnBhWXhraTFsR1E5eUxJeEVPYjdCYUU0Vzk0NWg1VXlHNEphSE5neV84TERva3d1R3NaakFNcnZ5QmlPcHZjb3EzcDNKb0I0Q0gza2t2VmEzS3BJSWZCYzg3OXA1MUdub2R0UnpDYnVpSHNwM3ZaZlRrTVJLSEFCNWd0TVpqUmZXMFdyaTJMTkU5YU4wYk55TFh6Y243UlFEaV82MUJpdHpmZFFOVW93MG8?oc=5",
+  "source": "Horseed Media"
+ },
+ {
   "date": "2026-11-04",
   "domain": "diplomacy",
   "impact": 0,
@@ -814,14 +806,6 @@
   "title": "Somalia, Türkiye Discuss Deepening Defence and Security Cooperation",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazAzbDRrcVV5YU9hM0hBTm1HOXR4RjRMdHl0blZheVZPeWk3NG05Y3pvOXhVelBrMkExMGo0a001bExkUFoybFVhN0RJamxFbzlRUWVWSjlRV05SVEVxQkR4SHc5eENKRnYtcEdDNVZRY2VGdzg4dm5NZlJBZkREVE9rY05ralZfQ0dLMUpraUE3X3hpN0xEcTh1cl9vR3dh?oc=5",
   "source": "Somali National News Agency"
- },
- {
-  "date": "2026-11-04",
-  "domain": "diplomacy",
-  "impact": 0,
-  "title": "Somali basını: Türkiye'nin hava saldırılarında siviller ölüyor",
-  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHdOcGg0Q19nRmZ1TzR6b0NhZU9Wa2xMUnMzLUJFVlhzTWRiMEY4ZzYtdExqVno0LWloSzNSN0hHV1N4d0U2dzlwaTVINWRidHNWamFEMG9iUXJ2U0hmRU5Yb0dXV3p0QWRldXRGY2MwdGs1X1Myem1UZndrLTRiQmpXUVE1cjBfMWk3bEUwVkxFVW5aeHBqRGVBNzTSAawBQVVfeXFMTXp4WkVuRXZzTU1FMzRmek9pbXlQZGd1TW1PaFJDbThrQ2dSM0U5U1ItZ3JrMjdjSHJvc3Nza1FCYU9FelNHVmJmSTRlY1BfU1BiQmhzM2pNZmhNdVhYTS1YbDFCN1JaWlZ5eW91c3lGTjFES1lPQUxGUVlGTWhzOUhnbmc4dDhOcHlBS0RnS0dCSzU2VmxKcWxYMS1jRFAxTThyeFhaNFpsd1U5Xw?oc=5",
-  "source": "Mepa News"
  },
  {
   "date": "2026-11-04",
@@ -878,14 +862,6 @@
   "title": "Wasiirrada Caafimaadka Soomaaliya iyo Turkiga oo kulan laba geesood ah ku yeeshay Istanbul",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlo0QkItaTUzdkJBTm1Zd0R1SGpyYlhWRUlRVGNUSE14QUh4RTJCWGsxQXhWRmJtVURhYjdxY01JN1ZNcGpyaWloaXpjSTdnNGtUTlo3cUdMalpyd2ZUUFFMZjBCSEFudVVQdTZ3MnRsS1FJOEViQ1RuYzRvNVppNGtuOVprVXZ4dWxiZldKUGdkZHltUjlQRUYwdnJYN1RQaXN3N0Y5bzhHUVpiLTF1Wm9ybjNfNlhi?oc=5",
   "source": "Shabelle Media Network"
- },
- {
-  "date": "2026-10-30",
-  "domain": "security",
-  "impact": 0,
-  "title": "Türk Deniz Kuvvetleri Somali açıklarında Cumhuriyet Bayramı’nı kutladı",
-  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3AxbEVlbnZBeXZSNDVqMDhpUnJSSTJmY1dteUxPcjJJN1lzYTlDcDBFeG9rNkZhUW1vTnh0elhaZ0hCaWVhNHhYM0x5OUUzZk4wTV9VN01jQlEwVERua2FDLWxOVWd3NHk2SmJhWndtZGw5Q3NIdDhYaHhoczlSazZOQmtWaWpxdlE4Mm5ta1NQNmlKN1k4RWxnMUw4T28tVFVRMmpMdVlRSlFDRzYzVl9GVQ?oc=5",
-  "source": "ssbulten.com.tr"
  },
  {
   "date": "2026-10-30",
@@ -987,14 +963,6 @@
   "date": "2026-10-26",
   "domain": "security",
   "impact": 1,
-  "title": "Somali and Turkish Land Forces Chiefs Discuss Military Cooperation in Ankara",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFBHdkVBRWNQaVR2dWpQNGgzb2lad25PUXRfSUFHeExfdUIxa2RXVXhYQTdNWGNNOGlTRGNRY0tMR1FqX0ZyTEctUUtZVWowQmtMMlJsR3o1TnZTVDVBbjN3a2hEcVFockE5NEdFSEt4OW1jdFpPV2NkNnNsZTJmTXN3UVJRQTQxSVh0SVNtOFd5d2Njb3VfbkhtdmRzWE1zeERROVdn?oc=5",
-  "source": "Shabelle Media Network"
- },
- {
-  "date": "2026-10-26",
-  "domain": "security",
-  "impact": 1,
   "title": "Somali, Turkish Land Forces Commanders Discuss Strengthening Military Cooperation",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM2pzSnhLRnVlLWxIRkZjNnRzOENKRkZIcGh3dlpjRGRCaDZuc01jdmp2d0NrNy0xMXExUmxBZ21oc1NwaV9nTmctUi1CRmQxc3V4N25FSHY0V2Y5ekRDblh4TDBHeUxrU2ZHVXNEZmNMSHYyVWRPcDl0RFJUNFJpZW81OEdQLXRpYTA4RU14cU5rTmhwcnVoQWpVS183QUNtQ1hBcG8wRnllNVI5?oc=5",
   "source": "Somali National News Agency"
@@ -1006,6 +974,14 @@
   "title": "Erdogan’s Somalia Bet Pulls Turkey Into a Wider Red Sea Contest",
   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZVJrYndUOEUyZDZvZFRHUENMOWpJRHZYM1E2NWpaanZLZTRPZnF0QzBYVklWSllST2Z2d0ZuM2FyRGZVU2RxTHFTUVVzWUczcWdNYllRcXo4U0lySjdEeTVCdmNqSzNlVmVuWUZLcENrMkNHMnlYNUU4WGprRGh4T1piVExmZk04MXEzNHNZY2pMRm90ZndfSlpORDlNdDJjdG5jQTV2cW83VWpMdTVFakkwOVQ?oc=5",
   "source": "Bloomberg.com"
+ },
+ {
+  "date": "2026-10-25",
+  "domain": "security",
+  "impact": 1,
+  "title": "Turkish Space Agency Delegation Visits Mogadishu and Warsheikh as Defence Cooperation Expands",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQektfZkw4OV8zWHJ0ZEtVWjc2MTVhVm1zUEE5R2pob29Yb0VRLXkyVVB4LTVtWFFpMlFjajQ0VFdTRlNUNGdSdC03TUpSVjVLVWxILTJldDYycW9CcmhVTnVFdVZzZUQtakVQZUlNeUYyVHJMVHdvYWVHcXF3MFVHZUhSTlFxam1KdEdHUUJka2t0ZGU1V2w1UXY0V3VJQzY2bllaUm83RS1ZbkJmaldtNVhtQTQ1UlRLMURWRTFn?oc=5",
+  "source": "FTL Somalia"
  },
  {
   "date": "2026-10-25",
@@ -1022,6 +998,14 @@
   "title": "Turkish Space Agency Delegation Visits Somalia as Bilateral Cooperation Expands",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU253SThuLXJ4VnVPMzNMdUNwZng1T2dHWVlESDVjb29hTzR3RHNQOUZWaXI1OE5haTlIZnROQ0huS0FfYWVmTWFOeFF2RWtVSDM5UGZpTXlLeUFLRVlPYXUxSE5SV0pLbVN6UlgwS2hTY0lhUkRIdmp5OHNudV9OTGs5U2FxS0lCOUJJZlhmeVpkdEhVMUV0VkE0Wi01MGVUTG9MSkl1cVU1VDg?oc=5",
   "source": "Somali National News Agency"
+ },
+ {
+  "date": "2026-10-24",
+  "domain": "security",
+  "impact": -2,
+  "title": "Somalia’s former South West leader urges Turkey to halt alleged airstrikes",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMFJTOUF4MjUxb3VYVUFsaE11QXI4azRDeWwtZzdQdnhLWDRvUUpOeUFmYnZFQkJSbzVxQ3RTLTJhdXhqTmdBNlY5ZFVDMjFUbGtVeVRuR0RURHFER3hfLV9SdElfUnVmQnROdFl3RXFUd1pEUkE0c21COFBGMTF0NDFsUkdsU0FoZXlMVFBZUjBOaXhzWTNVM3d2c3h4SkdaT2c?oc=5",
+  "source": "Shabelle Media Network"
  },
  {
   "date": "2026-10-24",
@@ -1048,14 +1032,6 @@
   "source": "Critical Threats"
  },
  {
-  "date": "2026-10-20",
-  "domain": "security",
-  "impact": 1,
-  "title": "Türkiye Risks Losing Somali Public Support as Military Partnership Becomes Entangled in Political Conflict",
-  "url": "https://wardheernews.com/turkiye-risks-losing-somali-public-support-as-military-partnership-becomes-entangled-in-political-conflict/",
-  "source": "wardheernews.com"
- },
- {
   "date": "2026-10-19",
   "domain": "energy",
   "impact": 0,
@@ -1072,28 +1048,20 @@
   "source": "Shabelle Media Network"
  },
  {
-  "date": "2026-10-19",
-  "domain": "diplomacy",
-  "impact": 0,
-  "title": "Türk Kızılaydan Somalideki 300 böbrek hastasına 150 bin dolarlık destek",
-  "url": "https://www.haberler.com/guncel/turk-kizilay-dan-somali-deki-300-bobrek-hastasina-20345799-haberi/",
-  "source": "haberler.com"
- },
- {
-  "date": "2026-10-19",
-  "domain": "economy",
-  "impact": 1,
-  "title": "Somalia , Türkiye Discuss Cooperation On Fisheries and Blue Economy",
-  "url": "https://allafrica.com/stories/202610190347.html",
-  "source": "allafrica.com"
- },
- {
   "date": "2026-10-17",
   "domain": "energy",
   "impact": 2,
   "title": "Türkiye Deploys Osman Gazi Platform as Somali Offshore Drilling Continues",
   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWlJOam5IejFUNGhVYWVFYlFhZ1AxaHk2YTB6a3RVTnNUYnFQX29QdTBmckJ0dFotWVI2V3dGY3JGYlY0b0s5d1pLVU9qZFh4T0VzeTBndnJhLXhoY3Y4REo1WUdkVkR4RXVfUy1yZ1VaQUJzU3M0VjladHNpYVFDcWpRSFdrLW1xeHhPNkVJSlhKdWdVdnV3TThXemRscnhQTFJN?oc=5",
   "source": "FTL Somalia"
+ },
+ {
+  "date": "2026-10-17",
+  "domain": "security",
+  "impact": -2,
+  "title": "Somali president rejects Turkish military base claim as propaganda",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOGdjUGM4bWdjbC16LTRvaFota1pKR3BvdHVBemFqOVVNbDhmWUotblU0R1pFaWswNlpvMThYaWJnOTBvSFVRQ2UzRzNFYkwzQWV1UkNnV2RDTDMtZEtkOUd4OWFhU3pZaFNhdlpJaXVSLWd5X2p1Q3ZRWnpJTnBCSTU3aFY1R1h1SnVDd1BNd21wREZvN3FQeUNOMzhKcU5KSEZNRk1OQk1uT1BobTdqaFVR?oc=5",
+  "source": "Somalia Today"
  },
  {
   "date": "2026-10-16",
@@ -1110,14 +1078,6 @@
   "title": "Xasan Sheekh oo kormeeray markabka Turkiga ee shidaalka ka qodaya biyaha Soomaaliya",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52Wkdwd01zTnd4eEdaQkg0QUI3ck0takxySnVScUFia0ViQUVObEZQaDJLX3ZIMGF0aWdmLVNNbTl0R0lETHB3YWxTT3NBSWtXZ3JVenZOdkFoU0xtUzdNb3FoTU9Zbnc4WWcwcGNyUVB0blE?oc=5",
   "source": "Hiiraan Online"
- },
- {
-  "date": "2026-10-16",
-  "domain": "energy",
-  "impact": 0,
-  "title": "Somalinin enerji hamlesinde Türkiye damgasý : Cumhurbaþkaný Mahmud Çaðrý Bey gemisini inceledi",
-  "url": "https://www.aksam.com.tr/dunya/somalinin-enerji-hamlesinde-turkiye-damgasi-cumhurbaskani-mahmud-cagri-bey-gemisini-inceledi/haber-1706784",
-  "source": "aksam.com.tr"
  },
  {
   "date": "2026-10-14",
@@ -1225,6 +1185,14 @@
  },
  {
   "date": "2026-10-07",
+  "domain": "space",
+  "impact": 2,
+  "title": "Erdoğan says Somalia spaceport construction has begun",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnBTM2o1ZENtTXpkM3E3TWFjZ1JCa1VBODkyaG1QMjFraVphckpkRklObTZIT0hwRnJkZ1pJSmJYYVVMaDRDaGtEcGp5MDZKRnU1RnNHRV9RVjQxanB5cWl2UkxRNGdPVU1yd2pucm1DYk9hdm1QM1lyUFdLVGQzZWtsNG5TSzJwNXl1dmlrcXoyT2ZjOFNxci0xVQ?oc=5",
+  "source": "Somalia Today"
+ },
+ {
+  "date": "2026-10-07",
   "domain": "diplomacy",
   "impact": 0,
   "title": "Türkiye'nin Somali'deki varlığı siyasi krizin içine çekiliyor",
@@ -1288,14 +1256,6 @@
   "source": "Yeni Akit Gazetesi"
  },
  {
-  "date": "2026-10-06",
-  "domain": "space",
-  "impact": 0,
-  "title": "Türk Uzay Üssü yerleşkesinden son görüntüler: Somali Büyükelçisi Ferhat Alkan okyanus kıyısındaki Varşeyh'te",
-  "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcU1iYmFySkR0T0FJMjBJLW9OY3laM09XV3QyV0ZVYUFlMmFRTEhOd2RsZnZLdHE4ZG1wRkljRUhZcDJ4S1hXSEJ6VDlLeUN1eDhVRWRnUUxPaGk0N1dDNjJHOE9TWE1wa0hFa09CalB3cU1YSm9wYy1NQkxvTzMtYXhUT1pEZEttWE5hYUZpcnBLc2t5QjI3VUxYendoQkZhYUJadGlCbE94anZBOEVtQWNycmdCb0p4cm1JYk01elhGQ1FmMUlIc2Judm9vRFBTbGZqTGh0YVAzcl9oakNJMXMwMWJhdFlTZ1Zv?oc=5",
-  "source": "TRHaber"
- },
- {
   "date": "2026-10-05",
   "domain": "security",
   "impact": 0,
@@ -1344,6 +1304,14 @@
   "source": "FTL Somalia"
  },
  {
+  "date": "2026-10-01",
+  "domain": "diplomacy",
+  "impact": 0,
+  "title": "As Turkey’s Hostility Grows, Should Somaliland Keep Turkey Consulate Open?",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWUxvd0FRNDJ1cnkwRFJFUHktTUJWeEpLWHhnakwwenh5d0NBMGxXeWxBZ0xwenRHRkh2bFBvRUNrWWYycndJZXFqelJNX1FROFV1dWJ6TExMRlpXbDBEdkVMZ25OQzdEZ0dXY1VMejhMdXNVdE9jTXJJVHZmUVJkRi1FMVJyMXhLbkk1UlVUOUluU3BsenUwTVF5QVNZeE1lYWFsc2JMdnF0MDdM?oc=5",
+  "source": "Middle East Forum"
+ },
+ {
   "date": "2026-09-30",
   "domain": "diplomacy",
   "impact": 0,
@@ -1376,20 +1344,28 @@
   "source": "FTL Somalia"
  },
  {
+  "date": "2026-09-27",
+  "domain": "diplomacy",
+  "impact": 2,
+  "title": "Türkiye's new ambassador to Somalia begins tenure with youth-focused talks",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LT2VjY0JPOVZVaFMtZ2QxS1FqcjNYY2hoWWlZWWVtejhScThOZ0JtNVZ6bldRN3p4ZEpCeWY2amNKQTVXS191MWthUS0zUFNyMVBPdW5IYnVuRWhkMXFsSVM5dDA?oc=5",
+  "source": "TRT Afrika"
+ },
+ {
+  "date": "2026-09-26",
+  "domain": "energy",
+  "impact": -1,
+  "title": "Türkiye Says Naval Escort for Somalia Drilling Ship Continues Amid Puntland Dispute",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON09TbXdSM1RIMC1nbnlKb3lGcjllVmlnYVp6RlhZWXozZ3dZRnhlVjlYQm5ZbDAwN2tCTWRLREhkWHlYdXJxNDIwdWFUQUI5OFlQWGV3S3FiTXFVYW5qclpGZW5fdUdWejEyS1NLS3lCUldQcUFqWW4xQkhyQmZSNmVMa0dPUmVSeE5fLXRMTzhBOUVmUndoTXh4djVHdmJkN2xoMm01cjZSWjE2REE?oc=5",
+  "source": "ChimpReports"
+ },
+ {
   "date": "2026-09-25",
   "domain": "energy",
   "impact": 0,
   "title": "Somali açıklarında kritik görev: Türk savaş gemileri Çağrı Bey’e eşlik ediyor...",
   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTd4Vi0yZ0Z1TUZ4YWtwc213WkRqZlR4UWN0RVZDQjFJY1dFNUhkRFVuNEdRclhWdnBKTDJDZlVQckNjbWgwVGU5RmQzNU50Nkw1ZHpNLW1xU2RxTkxOUDdyOHlkS0hJQmxhcGEwa20tZWEtcVo1aE82ejhpWHhQbk91Ukl0Zy1ERUs2c21hYXNma29NQldxVFFDLWZBXzdfckNmMnZGbw?oc=5",
   "source": "https://www.babaocagi.com/"
- },
- {
-  "date": "2026-09-25",
-  "domain": "diplomacy",
-  "impact": 0,
-  "title": "Türkiye'nin savaş gemileri Somali'de üst düzey görev icra ediyor",
-  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORzFVaFZTazRta2VpRVpTTVg4ZHpPV1RwLXlsQklPc0pfbER2SDR1M3NtbkNhVlpJX3hTaHA0emd4dm52Ujg4S2c5RmNFaDg2ZFEwX1doWkRkemhoZXI1a3RaQzV4NUNIQ2x5eXB6NkZlbXhuMHpfYkdjejNoT3o0anlDVXQ2R01ib3NXaXExbWZoQ1hOUzlIUUVSMTBsaURTVjFSakx3?oc=5",
-  "source": "BBN Haber"
  },
  {
   "date": "2026-09-24",
@@ -1422,6 +1398,14 @@
   "title": "Uganda-Türkiye Rupture: What’s Real, What’s Fake, and What It Means for Somalia - Somali News today Live",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkpKNjdhdkVxcEQ5dmgwMVNlMmNidzg5eTBCc1hocEtDM3I0eXV5X09WUEtFRXFWbTNPZHdDYmxnemRZVmJ3WHVwTmRCUGs4T1FsY2VaQUl1bktlRjhxRkpmVEt0MjFMM1NVOHlSX3hQQ3FoTzNRWDc2dlhEQWo0Tzk3a3d0UXNZUXhQWHVsV0s2Z0dfaEdla2ZPUGNfbUcxeE9hSQ?oc=5",
   "source": "FTL Somalia"
+ },
+ {
+  "date": "2026-09-22",
+  "domain": "economy",
+  "impact": -1,
+  "title": "Turkiye denies reports of new Somali visa restrictions on Turkish citizens",
+  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeTEtekVvc3dpQ3kyRTdyQ1VmWGM1eTg4eDc2RVhjR1Jvdm52cERNZVNSREJVa3U1WjdmOWNsZDBJcVBEVV9xSjc2QVhoRHpUMWxzSk1ESW10Mm1SSXdVcGtsN08yYnhqaC1lVm5YLUV6VUlBRlNaUG5fMFJoUlhLaDF1UjZMZ1JxRlFsY1M1Y05BcFVJZE1aY2VNaE5CcGZRWVM2UzBKbkx3anI4N245QmRVeGpIX1ZqWDhFemRmREFRYUVjemQ5aA?oc=5",
+  "source": "Hiiraan Online"
  },
  {
   "date": "2026-09-21",
@@ -1472,14 +1456,6 @@
   "source": "Odatv"
  },
  {
-  "date": "2026-09-19",
-  "domain": "security",
-  "impact": 0,
-  "title": "Erciyes'in zirvesinde Türk-Somali askeri iş birliği: Komandolar zorlu parkuru tamamladı",
-  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd2JVQWlpU0ZmZlRkVU5ScHlxM3lQMUpJXzBTNmQyWTdETWp5clA1Z1kwMjVoeXMtVG5NU1U4SzdnZkx0T1FhT2NFUmtHRlhQc0J5NHNhanR6VUl5Y1hjeXg4cjNmdzBoT3V2ZEowTFptTk1YMTZmWUlCdXRRQTRqSmhqVkNCd2phcnRMWFNwVXJoSkRUSEpVZExBUnNnT2Q3Y2xNemd2R05HVG13VENjYXpCNlM5NkhOdHZHNFRxbzhIMWxU?oc=5",
-  "source": "Muhalif"
- },
- {
   "date": "2026-09-18",
   "domain": "diplomacy",
   "impact": 0,
@@ -1494,6 +1470,14 @@
   "title": "Somali elders praise Somalia-Turkey ties and Ankara’s support",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV0NHRWp1OEhkSVRBbmEtQkNOR2lZdUxncnA2dmlYUEZnRU1HNlRvVVlpemF5Vi1NUEdXSlZJeHNacWU4ekI1bl9aWVY2NVVIa1hlVk02ZTB4VjNfbzRiYU81M0ozUDZGRXZfNktGcjRQZjNFN0I5MDJzbzFoanAzNVpDTFBaZ0lnVjNhYjRIRlg?oc=5",
   "source": "Shabelle Media Network"
+ },
+ {
+  "date": "2026-09-17",
+  "domain": "diplomacy",
+  "impact": 0,
+  "title": "Ambassador Ferhat Alkan Set to Take Up Post in Mogadishu as Turkey Expands Diplomatic Footprint",
+  "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVGhMSkVwUklQWlR4Nms0d2RqZWc1VERmc3JxQ0hZT1NvS19XeHV2S1hsWFpDU1lmaWdyX2ppNkkxUEZLYURQU0VkU2F1YWFTczVFM0gtV0lTRUJ2clB3SnBIMXNGZ0oteUFnM09WbGhoalV3WXpDaDFUdU1fcFpNQUJiNFR1RjB1dTM5UGVxYWJQdXBZYXZSWkhUMG05NGhQcl90LU1sTThqLUdKLXpQZDZEakFVak5sTFNNeV9UR3g?oc=5",
+  "source": "FTL Somalia"
  },
  {
   "date": "2026-09-17",
@@ -1603,6 +1587,14 @@
   "date": "2026-09-14",
   "domain": "diplomacy",
   "impact": 0,
+  "title": "Somalia PM bids farewell to outgoing Turkish ambassador",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTlVYaVpUMGFzSTNiTGJLN3BmNVJfckZ0VzBBcDRvQ1gybkpXLThwZDlPVkRNM25Fd2pMY05ucVBHTDkyRVJCR3p2V0JxYWtjNVdWOEhPWF9kY2hQblFqMXFqeXNfMU1UM3p4MXdtb2pkYVkyTmdCYmJRMjdLcWQzZ2lDcVBobkRvSEE?oc=5",
+  "source": "Shabelle Media Network"
+ },
+ {
+  "date": "2026-09-14",
+  "domain": "diplomacy",
+  "impact": 0,
   "title": "Safiirka Turkiga oo sheegay in Ankara sii wadi doonto taageerada Soomaaliya",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01TGZYX3luNWZ3aWRmUk9FSjdXM3FMLXZqdXF2SDJNbmlWcHM0bnRHNXJNZnRwUmNIU0FtVTcwZlItdDg4d2NmOTR5Q0tGNFlrU3hQOXlJdWE5VXdOel9rQnBHVTE1OTB4TnRobXkyR1ppWFk?oc=5",
   "source": "Hiiraan Online"
@@ -1638,6 +1630,14 @@
   "title": "Anti-Turkish protests spread after Somalia blast",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0tsZFpydHpIb3Z4MXZaZUVOT3hDZ1g1MHd2eTRYYVYzX3pXREx2VkxOQ3E1dlZRRU53cXBUSzJyNnFmNTlmWmlnRHdUVUJzTjM0dXZua3JpcHBoVWJsT0JETnRYcHU5bnRXUUZtYzdoQWlVOXltU2lJR2JwRG5zR25tak9yZng4aWpRRlZmM0lQR1JvUERkMWQ2SEJnTkhYbWlhV1NDVUt4Vk0?oc=5",
   "source": "The EastAfrican"
+ },
+ {
+  "date": "2026-09-12",
+  "domain": "space",
+  "impact": 0,
+  "title": "Somalia expected to launch first satellite in 2027, Turkish envoy says",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVlzVC1fUy1kcjdxRmhfRE9FSFpWbk5pSW11WEdRNUhjajJXUERFU2phel9wRkppcG5RVmZ3Nm9UVXk4dWRqWnU2X29hcDRVQ094R2Jzdkw2NHRnYUM2eFJsbDU5UV83QTV2eFNzaGJzTk9NZkJTOUZWWUJaNnB5TUtwNzhHbUpBX09ydTRxY2VieGRhV0V1dC1XNDFCUS1NTTQzMmxFY3dZLXdOZjREcFo4MnFLTkR5VV9ydQ?oc=5",
+  "source": "Hiiraan Online"
  },
  {
   "date": "2026-09-12",
@@ -1739,14 +1739,6 @@
   "date": "2026-09-10",
   "domain": "diplomacy",
   "impact": 0,
-  "title": "Türk deniz gücü Somali'de yük gemisini kurtardı",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHVuOE9kWGFiUHRTbHdJVFB4NGRSbGNqbUlaZFdwYm5WWkUzc2dtdTdoWTBUOEJ1a2RHTlJWdGx2Um1ZU3dmYlFtU3d6UkJqNkd6NG1WTWtSdDJXY1FkdWN2S01fczRBOUFXeFBGMVpIR2xPUFN3VS1FNEhWa3d4X3pnTzl4b1hnLTBpWFpB0gGQAUFVX3lxTE00N1pETjhuV1NCUmtuQTRIZERKS1Z4SnB5V1hvVFZnZ01kMnY4dExEdE9naEVYa1UwZVVtejdsM1hFaDVHTV96MGZMel9ZVEVZWU1WVVdzbGVxSWxXQVFCejhlN0pDdjRQekZObnJKQ2phRlBGU01kWERCZk13ODkza1RSQ0FqRkNqN21tYVZrbw?oc=5",
-  "source": "Sabah"
- },
- {
-  "date": "2026-09-10",
-  "domain": "diplomacy",
-  "impact": 0,
   "title": "Guddoomiyaha golaha shacabka oo cambaareeyey in calanka Turkiga lagu gubey gudaha Somalia.",
   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVmhoSi14Z3lsODJKd1U0Rmd2Smo3TUY1M0dEYVVtbjZ0aFRBUEJsTk9CZWhScG5Qa1NIaElvZ0c0ZG96LVFNNjF0eW4zV2hHaXhMclpYbWYzRVhpZEVTQjc1N19WeU5XdHNSQXRFemMxMmc4ajRRR3l1NVFZdmtZZHZtd2NLMC1fRXB3eVpfMzZoM1B5NHJwLW9CZy1CZGptMWpOYW1SWFJSaGdqV0EzeERib1ROTFRxc0lxSmdhbw?oc=5",
   "source": "Horseed Media"
@@ -1800,20 +1792,20 @@
   "source": "Somali Guardian"
  },
  {
-  "date": "2026-09-08",
+  "date": "2026-09-06",
   "domain": "diplomacy",
   "impact": 0,
-  "title": "Somali’den Türkiye’ye TÜRKSOM teşekkürü: Büyük ihtiyacımızı karşıladı | Afrika Haberleri",
-  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcF92MUwyV0RpbkZmTExZZ25yLWdrd2tBRjdPOHhVMm9vSUU4bFlzcXFPM19kU2xoU19BUUx0MEwxNmlPb3AySkowU1N6WE9DZWZvVHUtMHd6TWFxbVlGZF8yazdZNS01eTJmWlRNVDFZay1sWmtmeml4RS1Id3FHQTYwcjdFanVPNDR6MUFob1REODdmbUpTTGVjRHJHQjdnOVdkZmRVbHZVQQ?oc=5",
-  "source": "Yeni Şafak"
+  "title": "Turkey In Somalia: From Lifeline To Power Broker – OpEd",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNGl0TjRQa0REa1otMndTR09GYlR0OEhoMkFJWEdOeUhHS3lWUW5GOXZVbHJId0NaYkhCM1VDWUIwVDF6QzRSX1M4cEpWbmZyQWU5TnROaWVrbnBncW1SM0NjdGdwSDNoMUh2NWthR0tXbmVsdEgzSWVIREJzTUtRQ2duRWZfa0RDMFRzaks0dW43Z1RPTm1F?oc=5",
+  "source": "Eurasia Review"
  },
  {
   "date": "2026-09-06",
-  "domain": "economy",
+  "domain": "diplomacy",
   "impact": 0,
-  "title": "Somalili Bakan Mohamud'dan Türkiye'ye övgü dolu sözler: 'Zor durumdan çıkmamıza yardımcı oldu'",
-  "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRy02em9mbHVvMTl0TlZNLXRmZkdFcXlVV2pDTjdXbWxUWUlGVW03TVE4c05Eemh5cDRCNVJvUDZySElwYjR2VGVSaGs3RkpycGxBbkI0dXJsSDNEdGxmRGp0Mmhjc3dtUlh1MU40QlB4Z3ZNRTQzeW1LVHFHZWJ1NnpYb19tMlBUV3dnOVU3MjlQT1NMdHpfSlQwbFJZNVRJRWw4eGRscmlzZ0xHak9fX0o4aHVpOHhCSkhJMHRnOGdKLXhJM2VJRQ?oc=5",
-  "source": "Yeni Şafak"
+  "title": "Turkish Flags Burn as Anti-Ankara Anger Grows in Somalia After Doolow Attack",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Sdk52NHFZYnJ3YXRhV2J6bWNhMDdUdTZQT05CTjlnT1B1dHUyXzg0RnFTaHc4YXVuZllmVkNUX05kYm56b1BWRU1JcEhySnVtbmduYmthQmg?oc=5",
+  "source": "Sunatimes.com"
  },
  {
   "date": "2026-09-04",
@@ -1872,12 +1864,36 @@
   "source": "Addis Standard"
  },
  {
+  "date": "2026-08-31",
+  "domain": "diplomacy",
+  "impact": 0,
+  "title": "Türkiye’s Somaliland Dilemma Why Ankara Fears",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYUIwMEdoM0x2NDQ2Z3BtNlhuVXNCUjBVUlFSQlpVZDJJRlk0cDQ3TnYteEpWTy1tR0NsYThRVHcwcWtUWFluQndsZ3piWno5aTlqRWo1NXVhVlI0MkVodzloemloeTRaaWxQUnV1a00teXAySng3OVA2OElKRzlnTEMxMA?oc=5",
+  "source": "The Times of Israel"
+ },
+ {
+  "date": "2026-08-31",
+  "domain": "security",
+  "impact": 0,
+  "title": "Turkish F-16s carry out airstrikes near Somali capital",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1UzaXZldXdwRkFiSFVPSXVoUS1LVFd1V09yaXBpNTJ3U3g0aUZoeEpqTnAwUDBRajBja01fNmt5OTQwa2JWSW9yMV9WcTBzN3dwSDZRa1p1U3hPQkxCblVSTTZUUGhJRDRsSjduTUU1TUVYa2J2b3owdTlyTDVPQVpKZlJrU1NEdk4wdjN1TklQWHN2eXo3M3ZYckd0d3RH?oc=5",
+  "source": "Garowe Online"
+ },
+ {
   "date": "2026-08-30",
   "domain": "diplomacy",
   "impact": 0,
   "title": "Turkiye, Somalia forces free cargo vessel hijacked by pirates",
   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVhURmZUS2dzU0pEVDZwdDJwU2RKYlFERGRKX3R1QTVheVBxODlyaWk2QnQ1cnRZQ0lzUzVVRmtXQndvcTVtS3RfUkJkVWVfcElSVTAzUFhUdTZQREFDNmgtckRxNVJJTU1OQXpWWnZGNW4zdEQtZEcwOTE2RGdPOFNIUXJnMDdndmZyNnNqam1yR2QyMDQ0aVRBR2FISHZLb0ZNaNIBqgFBVV95cUxOak51NWg2SFhJOHJPNDRTQzFmUVNKZVRGbTRLejRUdlNOUUdRSVJTMndYTWJDSTkwWDBKNlFzVEJ0Tk9hcVV1NTBGcHozWTdxckgtTWJrNTJlT3FXS19FNk1tbkcxT01MU0lkZ1NHcjh1Q2J5amVCdXI2Xy1IUVdxblB2aHRnQmJtTHNsc3BJVTVjMTFSV2ZRQ3Rfa3NCYXJIUzBMM09NcTczZw?oc=5",
   "source": "Al Jazeera"
+ },
+ {
+  "date": "2026-08-30",
+  "domain": "diplomacy",
+  "impact": 0,
+  "title": "Turkish, Somali forces free hijacked vessel from pirates",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS3hjdmpOUDQ2Rm9qUzZHQmNxWkNIVlluUzRyWnpaTUlOSENOZ0p0bkV5ZmY0N1VVQUM4SXhTNHBNRHJTV2RtQjd5V0Rya0t0UDhnSU1DZ0ppbFgxc2o1bnoweGx5bkdOZmVWell6NkEtZkpnbnBGckNoNW9NRFM4LUVVdG9LU29JSC1DM2JCSGs0UEpSRXVsaElpcl8?oc=5",
+  "source": "Hürriyet Daily News"
  },
  {
   "date": "2026-08-30",
@@ -1898,10 +1914,18 @@
  {
   "date": "2026-08-29",
   "domain": "security",
-  "impact": 0,
-  "title": "Türk Deniz Kuvvetleri Somali’de korsanların kaçırdığı gemiyi kurtardı",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTNMeTlIenp3U1k2RzEwdUYwY0Fnai1fYVlkOGppRzBkRXM4VjAxVlBoZ3BqZjFIT2RMS21FcHRlMjhVTU10V1J6eHV6RjVhMWlQYzBtQXJhbHgzOHRpWmJaR3ZwUFF1aUs2OUtJYVd6dmY2bl94WGRxVDBnS09wRTAxYW82WDR1WVRXcFk3U0FjZm1ZVnZwYXk1TTBVMTRTblRMV0xUYlIydlpyMXc?oc=5",
-  "source": "Yeni Şafak"
+  "impact": 1,
+  "title": "Turkey Dispatches Naval Vessels to Support Somalia Amid Piracy Resurgence",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTZkencxaklZdlNQNW9STERHZC1hby11M0dlbDZVYlFUNUxVOGd5aEZyZFRYcGhVZHJCdlNHNmU4aHBtZzltVk1oX0RZN2g2TGVRcHNrR283djU1TzlzR05IWlJnNmpvekp6OGhrVXNYRjZFUTFadlJpVzNZMlBGWUZ0NEpiMndUY25zZUxpQnBBMHlnNFpwTjZhOW9NN05MWjlr?oc=5",
+  "source": "FTL Somalia"
+ },
+ {
+  "date": "2026-08-28",
+  "domain": "security",
+  "impact": 1,
+  "title": "Turkey sends warships to support Somalia amid ship hijacking",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUFsN20zN091M3BYc2poZ3c1UjhLMDN5TGpYY1VvVlQ2eWxsTHFMcXlRSUdWMFdvNXphNVRrSzZxWlMzMkZ4U1FobTFoNGFuQjFOZ0ZvSENqZEZxLTVJa2FXZk1qUUQ3TWlXSGhxYlFPWTlfS082cF9SSVhiMjNuNk9KbTk2dzZjWmhUT21Xbng5NUdIeXY2Ry1SY1hMamR4akZaNGFqT3NBQQ?oc=5",
+  "source": "Somalia Today"
  },
  {
   "date": "2026-08-28",
